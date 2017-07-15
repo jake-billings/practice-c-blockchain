@@ -1,4 +1,7 @@
 # practice-c-blockchain #
+
+[![DOI](https://zenodo.org/badge/96118387.svg)](https://zenodo.org/badge/latestdoi/96118387)
+
 This repository contains my personal practice with C++ in preparation for CS classes at CU Denver. Since this repository is just a practice repo, it is lacking in best practices and documentation. See the python implementation in my `research-blockchain` repository for cleaner code.
 
 ### Blockchain ###
